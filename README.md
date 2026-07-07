@@ -1,6 +1,6 @@
 # 🎬 AI Video Agency (OpenArt Edition) — Skill for Claude Code \& Coding Agents
 
-## Adaptiert von https://github.com/Arnie936🇩🇪 (Higgsfield Version)
+## Adaptiert von https://github.com/Arnie936/ai-video-agency (Higgsfield Version)
 
 ## YouTube Video unter https://youtu.be/ktX\_L2b9txI?si=UT6iSZMjy8XCO7ju
 
