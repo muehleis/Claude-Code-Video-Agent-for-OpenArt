@@ -2,7 +2,7 @@
 
 ## Adaptiert von https://github.com/Arnie936/ai-video-agency (Higgsfield Version)
 
-## YouTube Video unter https://youtu.be/ktX\_L2b9txI?si=UT6iSZMjy8XCO7ju
+## YouTube Video unter https://www.youtube.com/watch?v=ktX_L2b9txI
 
 ## Schnellstart ohne Vorwissen (copy \& paste)
 
